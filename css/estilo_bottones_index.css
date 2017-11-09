@@ -1,0 +1,14 @@
+a:link, a:visited {
+    background-color: #FFFFFF;
+    color: BLUE;
+    padding: 14px 25px;
+    Freestyle Script: center;
+    Freestyle Script: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: BLACK;
+}
+
